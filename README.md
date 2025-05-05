@@ -1,7 +1,7 @@
 ### Hi, I am André 👋
 
 🧠 Honours Bachelor's of Technology - Major in Software Development | Business Management Diploma<br/>
-💙💜 Prospect Research Services Coordinator at [SickKids Foundation](https://www.sickkidsfoundation.com/)<br/>
+💙 Prospect Research Services Coordinator at [SickKids Foundation](https://www.sickkidsfoundation.com/) 💜 <br/>
 💻 AI, Automation and Data Management Specialist • SQL • Advancing in Data Analytics<br/>
 📍Currently live in Toronto, Canada | Moving back to Lisbon, Portugal in summer of 2025
 
