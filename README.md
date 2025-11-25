@@ -3,7 +3,7 @@
 🧠 Honours Bachelor's of Technology - Major in Software Development | Business Management Diploma<br/>
 💙 Prospect Research Services Coordinator at [SickKids Foundation](https://www.sickkidsfoundation.com/) 💜 <br/>
 💻 AI, Automation and Data Management Specialist • SQL • Advancing in Data Analytics<br/>
-📍Currently live in Toronto, Canada | Moving back to Lisbon, Portugal in summer of 2025
+📍Currently live in Toronto, Canada | Moving back to Lisbon, Portugal in the summer of 2025
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Behrnah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrefsbernardo) 
